@@ -19,7 +19,7 @@ I build things I want to use — media tools, game utilities and automation — 
 | Project | What it does | Stack |
 |---|---|---|
 | [tv-center](https://github.com/ofmgdev/tv-center) | Jellyfin-style desktop media center — scans a folder, pulls metadata from TVmaze and plays episodes in a Netflix-style UI | Electron · React · Express · SQLite |
-| [DM-Secrets](https://github.com/ofmgdev/DM-Secrets) |Building desktop apps, games & automation tools · JavaScript · React · Java |
+| [DM-Secrets](https://github.com/ofmgdev/DM-Secrets) | Browser-based toolkit for running D&D 5e from one screen: battle map, tokens, character sheets and initiative tracker | JavaScript |
 | [MinecraftMobs](https://github.com/ofmgdev/MinecraftMobs) | Paper plugin that adds custom mobs and boss fights | Java · Gradle |
 
 #### 🤖 How I work
